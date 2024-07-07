@@ -1,0 +1,15 @@
+main#index{
+    margin-top: 10px;
+    display: block;
+    justify-content: center;
+    font-size: large;
+}
+
+div.siteElement{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin-top: 40px;
+}

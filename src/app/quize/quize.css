@@ -1,0 +1,58 @@
+main{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    font-size: large;
+    padding-bottom: 10px;
+}
+button{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+ul{
+    padding: 0px;
+}
+div.Start, div.Result, div.Quize{
+    padding-bottom: 10px;
+}
+div.questions{
+    text-align: left;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+}
+input{
+    width: 15px;
+    height: 15px;
+}
+div.Quize div{
+    cursor: pointer;
+}
+progress{
+    width: 50%;
+}
+span.copy:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+span.copy{
+    color: blue;
+}
