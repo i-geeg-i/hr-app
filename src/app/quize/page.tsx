@@ -1,7 +1,7 @@
 'use client';
 import { useState } from "react";
 import "./quize.css"
-export default function quize(this: any){
+export default function quize(){
     const [startDiv, setStartDiv] = useState(true);
     const [QuizeDiv, setQuizeDiv] = useState(false);
     const [ResultDiv, setResultDiv] = useState(false);
