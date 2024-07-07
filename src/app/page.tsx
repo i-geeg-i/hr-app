@@ -18,7 +18,7 @@ export default function Home() {
       <div className="siteElement">
         <h2>About me</h2>
         <p>
-        My name is Egor Glebov, I'm student of Innopolis university. You may find more about me on my personal <Link href="https://i-geeg-i.github.io">website</Link>.
+        My name is Egor Glebov, I&apos;m student of Innopolis university. You may find more about me on my personal <Link href="https://i-geeg-i.github.io">website</Link>.
         </p>
       </div>
     </main>
